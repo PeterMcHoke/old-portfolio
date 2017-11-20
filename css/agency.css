@@ -50,11 +50,11 @@ section {
 li {
   transition: all 150ms ease-in 0ms;
 }
-/*
-#mindset li:hover {
-  box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+
+#mindset {
+  width:100%;
+  background-image: url("../img/congruent_outline.png");
 }
-*/
 img {
   max-width: 50vh;
 }
